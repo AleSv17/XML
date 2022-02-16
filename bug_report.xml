@@ -1,1 +1,13 @@
-
+<bug>
+  <project>MyBook</project>
+  <ID>MB_WEN_20220216_000178</ID>
+  <CreatedDate>2022-02-16</CreatedDate>
+  <Title>Вкладка ("Профиль"). Верхняя панель, вкладка ("уведомления") не кликабельна</Title>
+  <Description>
+                    <firstStep>Открыть приложение</firstStep>
+                    <secondStep>Зайти в ("Профиль")</secondStep>
+                    <thirdStep>Попытаться нажать кнопку ("уведомления")</thirdStep>
+  </Description>
+  <Actual result>Нет перехода во вкладку("уведомление")</Actual result>
+  <Expected result>Переход во вкладку("уведомление") осуществлен</Expected result>
+</bug>
