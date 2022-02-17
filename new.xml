@@ -1,6 +1,6 @@
 <exercise>
-	<full name>Svir Alena Vyacheslavovna</full name>
+	<full_name>Svir Alena Vyacheslavovna</full_name>
 	<age>21</age>
-	<number of pets>2</number of pets>
-	<desired salary>75000</desired salary>
+	<number_of_pets>2</number_of_pets>
+	<desired_salary>75000</desired_salary>
 </exercise>
