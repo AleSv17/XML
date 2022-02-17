@@ -8,6 +8,6 @@
                     <secondStep>Зайти в ("Профиль")</secondStep>
                     <thirdStep>Попытаться нажать кнопку ("уведомления")</thirdStep>
   </Description>
-  <Actual result>Нет перехода во вкладку("уведомление")</Actual result>
-  <Expected result>Переход во вкладку("уведомление") осуществлен</Expected result>
+  <ActualResult>Нет перехода во вкладку("уведомление")</ActualResult>
+  <ExpectedResult>Переход во вкладку("уведомление") осуществлен</ExpectedResult>
 </bug>
